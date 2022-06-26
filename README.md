@@ -13,7 +13,7 @@
 
 <h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
-<!CODED BY MASK SER>
+<!CODED BY NINJA SER>
 
 ✯ <ʜᴀɴᴅʟᴇʀ> ᴘʟᴜɢɪɴ <ᴘʟᴜɢɪɴ ʟɪɴᴋ>
 <h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴘʟᴜɢɪɴ</h1>
@@ -24,26 +24,13 @@
 </details>
 
 <details>
-<summary>📜 𝗜𝗡𝗗𝗘𝗫 📜 </summary>
+<summary> </summary>
 <p>
 
 ## INDEX
 
-* [EDITOR](#editor-plugins) 
-* [FORWARD PLUGINS](#forward-plugins)
-* [WHATSAPP RELATED](#whatsapp-related-plugins)
-* [ANIME](#anime-plugins) 
-* [DOWNLOAD PLUGINS](#download-and-converter-plugins)
-* [CONVERTERS](#download-and-converter-plugins)
-* [FUN & PRANK](#fun-and-prank-plugins)
-* [STALKER](#stalker-and-search-plugins)
-* [SEARCH](#stalker-and-search-plugins) 
-* [RANDOM ](#random-images-and-videos)
-* [HEROKU RELATED](#heroku-and-git-related-plugins)
-* [OTHER PLUGINS](#other-usefull-plugins) 
-* 📌 [NON-MD PLUGINS](#non-md-plugins)
 
-[ʟʏғᴇ ɢɪᴛ-ᴍᴅ <a href="https://github.com/lyfe00011/whatsapp-bot-md">ᴠɪsɪᴛ <a/> ]<br />
+
 </p>
 </details>
 
@@ -53,7 +40,7 @@
  
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Dimr0UROoRGFL58vhGbO7L)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/It0pvGAjBSZBYQzkOOzsHS)
   <div align="center"
 _____________________________
 ## WHATS NEW                 |
